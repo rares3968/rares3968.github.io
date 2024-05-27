@@ -58,7 +58,6 @@ body {
   left: 50%;
   transform: translate(-50%, -50%);
   width: 20%;
-  height: 40%;
   background-color: #141414;
   overflow: auto;
   border-style: solid;
